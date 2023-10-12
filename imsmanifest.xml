@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5cw5GHH297i" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">VELUX prototype v1.4</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="VELUX_prototype_v1.4_ORG">
+    <organization identifier="VELUX_prototype_v1.4_ORG">
+      <title>VELUX prototype v1.4</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__5cw5GHH297i_RES">
+        <title>VELUX prototype v1.4</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5cw5GHH297i_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_62vatw97BD6_22_48_960x540.mp4" />
+      <file href="mobile/poster_5w6Uh0WUG2y_video_62vatw97BD6_22_48_960x540.jpg" />
+      <file href="mobile/6oxE7EzpzNi.png" />
+      <file href="mobile/6oxE7EzpzNi_P_250_58_153_48.png" />
+      <file href="mobile/6kupNGHc21i_X_80_P_0_0_2048_1152.jpg" />
+      <file href="mobile/poster_5tTFvDuTsKG_video_62vatw97BD6_22_48_960x540.jpg" />
+      <file href="mobile/6FRwQYkCTbl.png" />
+      <file href="mobile/6kupNGHc21i_X_80_P_0_0_2048_478.jpg" />
+      <file href="mobile/6OYZLKl6r41.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5s0PfnCqv5F.png" />
+      <file href="mobile/Shape5ZKKQpLWlyP.png" />
+      <file href="mobile/Shape6ccX3bEMftp.png" />
+      <file href="mobile/Shape6Dl9RwVlOoc.png" />
+      <file href="mobile/Shape6ozj3BCOtDC.png" />
+      <file href="mobile/Shape6FjHxkX3LHf.png" />
+      <file href="mobile/txt__default_6XG6dghC6ci.png" />
+      <file href="mobile/Shape5h4qfGIBMUJ.png" />
+      <file href="mobile/Shape5ciPgnqt2in.png" />
+      <file href="mobile/Shape6rTzeI8PxWX.png" />
+      <file href="mobile/Shape6KKCrpVhgJN.png" />
+      <file href="mobile/Shape5flP3drKqzY.png" />
+      <file href="mobile/Shape5XuWxU8WmSr.png" />
+      <file href="mobile/Shape5WMnSdH1SiF.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dHZTrGcQsE.js" />
+      <file href="html5/data/js/5s1cwsbpfNh.js" />
+      <file href="html5/data/js/6kAbmZMLTUB.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
